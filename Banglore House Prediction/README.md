@@ -1,36 +1,33 @@
-#🏡 Bangalore House Price Prediction
+<h1>🏡 Bangalore House Price Prediction</h1>  
 
-Predicting real-estate prices in Bengaluru using Machine Learning.
+<h2>📌 Overview</h2>  
+This project predicts real-estate prices in Bengaluru using Machine Learning.  
+It analyzes factors like location, square footage, bedrooms, and bathrooms to output a realistic house price estimate.
 
-#📌 Overview
+---
 
-This project builds an ML model that predicts house prices in Bangalore based on features like location, square footage, number of bedrooms, and bathrooms.
-It cleans raw dataset chaos, engineers useful features, and trains a model that actually understands the city’s real-estate patterns.
+<h2>🚀 Features</h2>
 
-#🚀 Features
+- Full end-to-end ML pipeline  
+- Data cleaning & preprocessing  
+- Outlier handling  
+- Feature engineering  
+- Regression models  
+- Exported trained model  
+- Optional Streamlit app  
 
-🔹 Full end-to-end ML workflow
+---
 
-🔹 Data cleaning & outlier removal
+<h2>🧰 Tech Stack</h2>
 
-🔹 Feature engineering with dummies & domain logic
+- Python  
+- Pandas, NumPy  
+- Matplotlib / Seaborn  
+- Scikit-Learn  
+- Jupyter Notebook  
+- Streamlit  
 
-🔹 Linear Regression / Random Forest / XGBoost models
+---
 
-🔹 Interactive prediction script / Streamlit app (if added)
+<h2>📂 Project Structure</h2>
 
-🔹 Exported trained model + pipeline
-
-#🧰 Tech Stack
-
-Python
-
-NumPy, Pandas
-
-Matplotlib / Seaborn
-
-Scikit-Learn
-
-Jupyter Notebook
-
-Streamlit (optional)
