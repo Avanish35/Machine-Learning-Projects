@@ -63,14 +63,6 @@ Evaluation Metrics:
 <h2>📊 Final Model</h2>
 
 Best model selected based on performance:  
-👉 *(Edit this with your result)*  
-
-Example: **Linear Regression – R² ≈ 0.84**
+**Linear Regression – R² ≈ 0.84**
 
 ---
-
-<h2>🖥 Run Locally</h2>
-
-<h3>1️⃣ Clone Repo</h3>
-
-```bash
