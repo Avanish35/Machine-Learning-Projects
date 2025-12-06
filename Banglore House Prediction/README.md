@@ -31,3 +31,46 @@ It analyzes factors like location, square footage, bedrooms, and bathrooms to ou
 
 <h2>📂 Project Structure</h2>
 
+
+---
+
+<h2>🧹 Data Cleaning Steps</h2>
+
+- Remove outliers  
+- Fill missing values  
+- Group rare locations  
+- Create price per sqft  
+- One-hot encoding  
+- Feature selection  
+
+---
+
+<h2>🤖 Model Training</h2>
+
+Models tested:
+- Linear Regression  
+- Lasso / Ridge  
+- Random Forest  
+- XGBoost  
+
+Evaluation Metrics:
+- R² Score  
+- MAE  
+- Cross-validation  
+
+---
+
+<h2>📊 Final Model</h2>
+
+Best model selected based on performance:  
+👉 *(Edit this with your result)*  
+
+Example: **Linear Regression – R² ≈ 0.84**
+
+---
+
+<h2>🖥 Run Locally</h2>
+
+<h3>1️⃣ Clone Repo</h3>
+
+```bash
