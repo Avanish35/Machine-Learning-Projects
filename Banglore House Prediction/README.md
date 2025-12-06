@@ -31,6 +31,14 @@ It analyzes factors like location, square footage, bedrooms, and bathrooms to ou
 
 <h2>📂 Project Structure</h2>
 
+📦 bangalore-house-price-prediction
+┣ 📁 data
+┣ 📁 model
+┣ 📁 notebooks
+┣ 📁 app
+┣ README.md
+┣ requirements.txt
+┗ main.py
 
 ---
 
