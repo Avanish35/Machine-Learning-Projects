@@ -1,0 +1,1 @@
+r"E:\Projects\Used Car Price\model\car_price_model.pkl"
