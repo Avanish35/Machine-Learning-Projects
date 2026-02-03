@@ -84,5 +84,7 @@ Add real-time user input support
 ## 👤Author
 
 Avanish Singh Verma
+
 Computer Science Engineering Student
+
 Focused on Java Backend, AI/ML, and problem-solving
